@@ -1,0 +1,17 @@
+.fs-30 {
+    font-size: 40px;
+}
+.center {
+    text-align: center;
+}
+.licenter{
+    display: inline-block;
+    margin: 0;
+    padding: 0; 
+}
+h2{
+    color: #77D970;
+}
+h1{
+    color: #172774
+}
